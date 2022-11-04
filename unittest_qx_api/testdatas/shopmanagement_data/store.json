@@ -1,0 +1,42 @@
+{
+  "pageNo,pageSize 不为空": {
+    "shopNo": "",
+    "payStatus": "",
+    "existShopOwner": "",
+    "orderType": "",
+    "pageNo": 1,
+    "pageSize": 20
+  },
+  "all 不为空": {
+    "shopNo": "哈哈",
+    "payStatus": "哈",
+    "existShopOwner": "哈哈",
+    "orderType": 1,
+    "pageNo": 1,
+    "pageSize": 20
+  },
+  "pageSize 不为空": {
+    "shopNo": "",
+    "payStatus": "",
+    "existShopOwner": "",
+    "orderType": "",
+    "pageNo": "",
+    "pageSize": 20
+  },
+  "shopNo,pageNo,pageSize 不为空": {
+    "shopNo": "哈",
+    "payStatus": "",
+    "existShopOwner": "",
+    "orderType": "",
+    "pageNo": 1,
+    "pageSize": 20
+  },
+  "all 为空": {
+    "shopNo": "",
+    "payStatus": "",
+    "existShopOwner": "",
+    "orderType": "",
+    "pageNo": "",
+    "pageSize": ""
+  }
+}
